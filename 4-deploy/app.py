@@ -1,5 +1,6 @@
 """
 https://www.youtube.com/watch?v=mrExsjcvF4o
+url_for: https://www.youtube.com/watch?v=7X1X39vccW4
 """
 
 import numpy as np
